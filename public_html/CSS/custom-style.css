@@ -1,0 +1,70 @@
+body{
+ background-image: url(http://krisaru.com/wp-content/uploads/2011/08/background-website-light-blue-wallpapers-background-2.jpg)
+}
+div{
+   border-style: none;
+    border-width: 5px;
+    padding: 30px;
+}
+.center{
+    text-align: center;
+}
+/*.h1{
+  semibold: 30px;
+}*/
+a{
+        text-decoration: none;
+        color: black;
+    } 
+    article p{/*gy here im changing the color of my letters and centering my font also making a border line*/
+    color: black;
+    }
+    .jumbotron{
+        border-style: solid;
+        border-width: 4px;
+        padding: 4px;
+        border-color: black;
+
+    }
+    
+    .p{
+      border-style: solid;
+    border-width: 5px;
+    padding: 30px;   
+    border-color: white;
+    } 
+     
+    #border { 
+     border-style: solid; 
+     border-color: whitesmoke; 
+     float: right;
+    } 
+     
+    .img-circle {
+        float: left;
+    }
+    
+    #hola{
+        width: 60px;
+        height: 60px;
+    }
+    
+  
+
+
+
+
+
+  
+
+
+
+	
+
+
+	
+
+
+	
+	
+	
