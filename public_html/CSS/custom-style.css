@@ -19,13 +19,13 @@ a{
     article p{/*gy here im changing the color of my letters and centering my font also making a border line*/
     color: black;
     }
-    .jumbotron{
+/*    .jumbotron{
         border-style: solid;
         border-width: 4px;
         padding: 4px;
         border-color: black;
 
-    }
+    }*/
     
     .p{
       border-style: solid;
@@ -44,9 +44,12 @@ a{
         float: left;
     }
     
-    #hola{
-        width: 60px;
-        height: 60px;
+    .jumbotron{
+        width: 500px;
+        height: 600px;
     }
     
+    .page-header{
+        background-image: url()
+    }
   
